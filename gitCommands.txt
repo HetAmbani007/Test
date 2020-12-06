@@ -1,4 +1,5 @@
 Tanay
+Het
 
 git clone ....repo url
 
@@ -11,3 +12,5 @@ git add filename(.) -> adds files to get repo
 git commit -m """"" Wrote the git commands"
 
 git push -> saves file to git repo
+
+git pull -> get code from the internate
