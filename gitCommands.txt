@@ -1,6 +1,7 @@
 Tanay
 Het
 SHAH
+-------------------------------------
 git clone ....repo url
 
 git fetch -> gets updates about new branches 
@@ -14,3 +15,4 @@ git commit -m """"" Wrote the git commands"
 git push -> saves file to git repo
 
 git pull -> get code from the internate
+--------------------------------------
