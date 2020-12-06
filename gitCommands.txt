@@ -1,0 +1,13 @@
+Tanay
+
+git clone ....repo url
+
+git fetch -> gets updates about new branches 
+
+git checkout ...banch-name(dev) -> for switching the branch
+
+git add filename(.) -> adds files to get repo
+
+git commit -m """"" Wrote the git commands"
+
+git push -> saves file to git repo
